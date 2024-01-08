@@ -7,6 +7,8 @@ from pyrogram.enums import ChatMemberStatus
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from datetime import datetime
 import requests
+from keep_alive import keep_alive
+keep_alive()
 import math
 import time
 from yt_dlp import YoutubeDL
