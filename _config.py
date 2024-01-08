@@ -1,23 +1,23 @@
 # Config
 class Config(object):
     # Your bot name - Required (str)
-    BOT_NAME = "public"
+    BOT_NAME = "ytdl"
     # A name for users - Required (str)
-    BOT_NAME_FOR_USERS = "Video Downloader bot by upekshaip"
+    BOT_NAME_FOR_USERS = "ytdl"
     # Add all admin id's as a list - Required (lst[int])
-    ADMIN = [0000000000]
+    ADMIN = [1468052018]
     # Add your telegram API ID - Required (int)
     API_ID = 0000000
     # Add your Telegram API HASH - Required (str)
     API_HASH = ""
     # Add your telegram bot token (str)
-    BOT_TOKEN = ""
+    BOT_TOKEN = "6919037129:AAH-04S0Fg3zGrgf1UWPmcPRpKs27NBTzW0"
     # Add telegram Log channel Id - Required (int)
     LOGS_ID = -0000000000000
     # Add main channel to subscribe - Required (int)
     SUBSCRIBE_CHANNEL = -0000000000000
     # Add subscription channel - Required (str)
-    SUBSCRIBE_CHANNEL_URL = "https://t.me/upekshaip"
+    SUBSCRIBE_CHANNEL_URL = "https://t.me/ttyyytdl"
 
     # Cookie file URL
     # EX: "https://path/to/your/cookie-file.txt"
@@ -28,7 +28,7 @@ class Config(object):
     PIC_FILE_PATH = "pic.jpg"
 
     # Restricted content site lists
-    PORN_LIST = ["pornhub", "phncdn.com", "xvideos", "xhcdn.com", "xhamster"]
+    PORN_LIST = ["nnnnnn"]
 
     # Commands
     DOWNLOAD_COOKIE_COMMAND = "/download_cookie"
